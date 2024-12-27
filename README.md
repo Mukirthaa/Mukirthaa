@@ -1,7 +1,14 @@
 ## Hi there 👋 It's me Mukirthaa
 
 Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY, Thanjavur
-<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-engineer&psig=AOvVaw13qhD7MubVS1axCE8EthRv&ust=1735360127263000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCnvLGOx4oDFQAAAAAdAAAAABAJ">
+
+## Computer Science Engineering Steminist
+
+## Women in STEM
+
+![Women in STEM](https://media.giphy.com/media/3o6Zt5kz6g8V6g0V6s/giphy.gif)
+
+
 - 🔭 Here's my [portfolio]                                                 
 - 🌱 I’m currently learning Data Science and flutter
 - 👯 I’m looking to collaborate on ML/AI/LLM

@@ -4,7 +4,7 @@ Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY
 
 ## Computer Science Engineering Steminist
 
-<img align="right" width="370" height="290" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Rudnl2anBjaGJwYWh3MXNiNnpndDVodDg2c205bHNyZjJ1NzN0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 Here's my [portfolio]                                                 
 - 🌱 I’m currently learning Data Science and flutter

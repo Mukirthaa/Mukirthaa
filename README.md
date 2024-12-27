@@ -19,20 +19,7 @@ Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY
 
 ### IDE and Tools I Use
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab"/>
-<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter Notebook"/>
-<img height="50" width="50" src="https://www.spyder-ide.org/images/spyder-logo.png" alt="Spyder"/>
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="Anaconda"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
-<img height="50" width="50" src="https://img.icons8.com/color/480/null/notion--v1.png" alt="Notion"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu"/>
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="Adobe Photoshop"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
-
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab"/><img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter Notebook"/><img height="50" width="50" src="https://www.spyder-ide.org/images/spyder-logo.png" alt="Spyder"/><img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="Anaconda"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/><img height="50" width="50" src="https://img.icons8.com/color/480/null/notion--v1.png" alt="Notion"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu"/><img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="Adobe Photoshop"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
 
 
 ### 💻 Workspace Spec

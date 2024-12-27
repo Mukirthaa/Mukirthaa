@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Mukirthaa
 
-Computer science an Business Management student @SASTRA DEEMED TO BE UNIVERSITY, Thanjavur
+Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY, Thanjavur
 <img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-engineer&psig=AOvVaw13qhD7MubVS1axCE8EthRv&ust=1735360127263000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCnvLGOx4oDFQAAAAAdAAAAABAJ">
 - 🔭 Here's my [portfolio]                                                 
 - 🌱 I’m currently learning Data Science
@@ -27,4 +27,4 @@ Computer science an Business Management student @SASTRA DEEMED TO BE UNIVERSITY,
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mukirthaa?ext=contest&theme=dark)](https://leetcode.com/mukirthaa)
 
-[![Mukirthaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukirthaa-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mukirthaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukirthaa-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

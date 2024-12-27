@@ -12,8 +12,8 @@ Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY
 - 🤔 I’m looking for help with Placements in MAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/dev.to-mukirthaa-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
-" />](https://x.com/mukirthaamk) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukirthaa/)
+<br /> [<img src="https://img.shields.io/badge/X-0077FF?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/mukirthaamk)
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukirthaa/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Skating.
 

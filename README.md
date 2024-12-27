@@ -4,10 +4,7 @@ Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY
 
 ## Computer Science Engineering Steminist
 
-## Women in STEM
-
-![Women in STEM](https://media.giphy.com/media/3o6Zt5kz6g8V6g0V6s/giphy.gif)
-
+<img align="right" width="370" height="290" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 
 - 🔭 Here's my [portfolio]                                                 
 - 🌱 I’m currently learning Data Science and flutter

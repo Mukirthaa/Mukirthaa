@@ -29,8 +29,10 @@ Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY
 ###💻 Workspace Spec
 <br /> <img height="30" src="https://img.shields.io/badge/Processor-12th_Gen_Intel_Core_i5_1235U-0078D7?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/RAM-8GB-0078D7?style=for-the-badge&logo=memory&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/System_Type-64bit_x64-0078D7?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/OS-Windows_11_Home_Single_Language-0078D7?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/HP_Samsung_Monitor-0078D7?style=for-the-badge&logo=monitor&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/HP_CPU-0078D7?style=for-the-badge&logo=hp&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Logitech_Mouse-0078D7?style=for-the-badge&logo=logitech&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Android-Mobile-0078D7?style=for-the-badge&logo=android&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Philips_Speaker-0078D7?style=for-the-badge&logo=phillips&logoColor=white"/>
 
-![Mukirthaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukirthaa&theme=dark&show_icons=true&&hide=issues,contribs)
+![MUKIRTHAA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukirthaa&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mukirthaa?ext=contest&theme=dark)](https://leetcode.com/Mukirthaa)
+[![MUKIRTHAA's Leetcode Stats](https://leetcard.jacoblin.cool/Mukirthaa?ext=contest&theme=dark)](https://leetcode.com/Mukirthaa)
 
-[![Mukirthaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukirthaa-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukirthaa&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukirthaa&bg_color=171717&color=4c919e&line=4c9e95&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+
+

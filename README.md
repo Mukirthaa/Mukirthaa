@@ -33,8 +33,13 @@ Computer science and Business Management student @SASTRA DEEMED TO BE UNIVERSITY
 
 [![MUKIRTHAA's Leetcode Stats](https://leetcard.jacoblin.cool/Mukirthaa?ext=contest&theme=dark)](https://leetcode.com/Mukirthaa)
 
+---
+---
+
 [![MUKIRTHAA's HackerRank Stats](https://badge.hackerearth.com/mkmukirthaa.svg)](https://www.hackerrank.com/mkmukirthaa)
 
+---
+---
 [![MUKIRTHAA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mukirthaa&bg_color=171717&color=4c919e&line=4c9e95&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
